@@ -127,7 +127,7 @@ const HeadingImage = styled.div`
 
     @media (min-width: ${breakpoints.mobileMax}) {
         width: 100%;
-        height: 400px;
+        height: 600px;
         background-position-x: right;
         background-position-y: center;
     }

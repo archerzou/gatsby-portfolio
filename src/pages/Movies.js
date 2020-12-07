@@ -259,10 +259,10 @@ function Movies(props) {
                     <TextContent>
                         <Heading>Movies</Heading>
                         <Paragraph>
-                            Movies is a project I put together after learning
-                            the basics of GraphQL. This application allows 
+                            Movies was a project I put together after learning
+                            the basics of GraphQL. This application allowed 
                             users to discover thousands of movies using TMDB API, 
-                            which also improves my understanding of making queries
+                            which also improved my understanding of making queries
                             and managing larger sets of data. 
                         </Paragraph>
                         <ProjectTable>

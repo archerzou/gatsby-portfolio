@@ -375,13 +375,13 @@ function ShoppingList() {
                     <CenterText>
                         <Heading>Problems and Thought Process</Heading>
                         <Paragraph>
-                            Coding involves a lot of repetition. I force myself
+                            Coding involves a lot of repetition. I forced myself
                             to write loops and Conditional statements to imrprove
-                            the code. And I also experiment with asynchronous JavaScript.
+                            the code. And I also experimented with asynchronous JavaScript.
                             
-                            The main APIs in my app come from Material-UI. They inject
+                            The main APIs in my app came from Material-UI. They injected
                             different types of functionalities to components, such as
-                            modals, lists, forms, etc. And I find myself heavily relying
+                            modals, lists, forms, etc. And I found myself heavily relying
                             on knex’s docs and Stack Overflow to learn more about SQL queries.
                         </Paragraph>
                     </CenterText>
@@ -395,7 +395,7 @@ function ShoppingList() {
                         I created this app alone. So here’s the thing, even some small differences caused hours 
                         upon hours of headaches as I unearthed new problems and bugs that I had to solve on my own.
                         with such kind of experience, I have become better at identifying where the bugs come up. 
-                        I’ve cut down on silly mistakes. I’m better at reading logs. It feels like bugs take me less time to squash.<br />
+                        I’ve cut down on silly mistakes. I’m better at reading logs. It felt like bugs took me less time to squash.<br />
                         <br />     
                         Another hidden perk: seeing the big picture behind the language. This project helped to solidify a lot my React knowledge, such as using hooks or updating the states. I also got a lot of great practice using ES6+ syntax on the backend of the project. I could distinguish which parts of the
                         code are pure JavaScript and which are specific to a framework, like React. React might go away someday, but JS will 

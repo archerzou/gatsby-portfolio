@@ -346,7 +346,7 @@ function Learning() {
             <Paragraph>
               Nothing can stop me from becoming a developer as long as I have a
               computer and a strong drive to learn. I was really enjoying to learn
-              knowledge folling the tendency and practice with different projects
+              knowledge following the tendency and practice with different projects
               after my work. It was very coincident for me to join the Discord 
               group of {" "} <a href="https://zerotomastery.io/">ZTM</a>, a promoting
               online community for learning to code. That was an amazing roadmap from
@@ -400,7 +400,7 @@ function Learning() {
           <CenterText>
             <Heading>Coding Challenge</Heading>
             <Paragraph>
-              Last month, for Hacktoberfest, I completed building a group project for the Keiko Corp
+              For Hacktoberfest, I completed building a group project for the Keiko Corp
               startup, with Figma to form integrated version of a mobile-first, responsive website, 
               and then use vanilla javascript with modern CSS, Flexbox and Grid. If you'd like to 
               learn more about this project, I attached the linked below.
@@ -428,8 +428,8 @@ function Learning() {
           <TextContent>
             <Heading>My Notes</Heading>
             <Paragraph>
-              This was the project I spent the majority of my sapre time working on.
-              I worked under the guidelines of a designer and app developer, to create
+              This was the project I spent the majority of my sapre time working
+              on. I worked under the guidelines of mobile designer, to create
               a full experience on the landing page of technology Startup.
               <br /> <br />
               This was one of my first template websites with Figma, here I was able to 
@@ -443,12 +443,10 @@ function Learning() {
               <Paragraph>
                 Another project I worked on was Online Groceries, an iPhone & 
                 Android Application built with React Native. This project was for a
-                person that wanted to help users discover organic food in their area.
-                <br /> <br />I was able to gain some valuable experience with
-                React Native during this project, and was able to work freshly in a
-                mobile applicaiton, which I wrote code based on the knowledage of React
-                and read lots of ducoments about Native. I also had the opportunity to
-                discuss changes and planning directly with my Client.
+                friend that wanted to help users discover organic food in their area.
+                <br /> <br />I was able to gain some valuable experience with React
+                Native, and was able to work freshly in a mobile applicaiton. I also
+                had the opportunity to discuss changes and planning directly with my Client.
               </Paragraph>
             </LeftText>
             <RightText></RightText>
@@ -458,7 +456,7 @@ function Learning() {
             <LeftText>
               <Heading>Notes</Heading>
               <Paragraph>
-                For this project, I have built out a handful of components such as
+                For this project, I have built out some components such as
                 search result interface, gallery and product view. I was amazed
                 by how easily one can transition from React to React Native, and
                 loved the use of Figma to generate CSS style and layout easily.{" "}

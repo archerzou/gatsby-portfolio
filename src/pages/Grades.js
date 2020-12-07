@@ -267,9 +267,9 @@ function Grades(props) {
                     <TextContent>
                         <Heading>Grades for Analysis</Heading>
                         <Paragraph>
-                            Grades for Analysis is an online web Application 
-                            with MERN Stack, which allows teachers and students
-                            to keep track of student's grades. MERN stack is the
+                            Grades for Analysis was an online web Application 
+                            with MERN Stack, which allowed teachers and students
+                            to keep track of student's grades. MERN stack was the
                             idea of using Javascript/Node for fullstack web 
                             development. I built this project from scratch 
                             using a number of open source projects and plugins 
@@ -354,7 +354,7 @@ function Grades(props) {
                                 coding knowledge.
                             </Paragraph>
                             <Paragraph>
-                                React hooks and Redux for state management are also used
+                                React hooks and Redux for state management were also used
                                 throughout the project to maintain the user create, read,
                                 update and delete(CRUD) the data consistently. Heroku is also an
                                 obvious choice for fullstack deployment because of its easy deploying 
